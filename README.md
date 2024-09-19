@@ -31,3 +31,11 @@ I had the experience of working with the following tools and completed my projec
 <br>
 
 ![My Skills](https://skillicons.dev/icons?i=python,html,css,django,sqlite,stackoverflow,vscode,windows,pycharm)
+
+
+<br>
+<br>
+
+- [x]Completed
+- [ ]Completed
+  
