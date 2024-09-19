@@ -3,7 +3,6 @@
 Hello, my name is Mohammad Javad Ravand, and I created this repository to introduce myself and my abilities. Please stay with me.
 
 <br>
-<br>
 
 
 <h1>$\color{deepskyblue}{Telegram}$</h1>
