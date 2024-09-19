@@ -19,4 +19,4 @@ It's been 6 years since I joined the Telegram application and it's been 2 years 
 <h1>$\color{deepskyblue}{My-Skils}$</h1>
 I started learning Html and Css two years ago and after a few small projects I started with these things. After Html and Css, I started to learn python and after 5 months I learned this language. After learning Python, I started learning Django framework and now I am a backend developer with Django
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)]
+![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)
