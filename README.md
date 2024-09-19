@@ -23,4 +23,4 @@ I started learning Html and Css two years ago and after a few small projects I s
 <br>
 
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)
+![My Skills](https://skillicons.dev/icons?i=python,html,css,vs code)
