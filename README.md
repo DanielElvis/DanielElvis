@@ -24,4 +24,7 @@ I started learning Html and Css two years ago and after a few small projects I s
 <br>
 
 
+
+<h1>$\color{deepskyblue}{The tools I worked with:}$</h1>
+
 ![My Skills](https://skillicons.dev/icons?i=python,html,css,django,sqlite,stackoverflow,vscode,windows,pycharm)
