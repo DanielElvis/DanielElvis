@@ -36,7 +36,13 @@ I had the experience of working with the following tools and completed my projec
 <br>
 <br>
 
+<h1>$\color{deepskyblue}{My-Task-Lists:}$</h1>
 
-- [x] Completed
-- [ ] InCompleted
+- [x] Python
+- [x] Django
+- [x] Html
+- [x] Css
+- [ ] Django Rest Framework
+- [ ] Django Celery
+- [ ] Js
 
