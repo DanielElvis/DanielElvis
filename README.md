@@ -25,6 +25,6 @@ I started learning Html and Css two years ago and after a few small projects I s
 
 
 
-<h1>$\color{deepskyblue}{The/spacetools-I-worked-with:}$</h1>
+<h1>$\color{deepskyblue}{The/space tools-I-worked-with:}$</h1>
 
 ![My Skills](https://skillicons.dev/icons?i=python,html,css,django,sqlite,stackoverflow,vscode,windows,pycharm)
