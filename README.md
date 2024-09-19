@@ -36,7 +36,7 @@ I had the experience of working with the following tools and completed my projec
 <br>
 <br>
 
-```Markdown
-- [x]Completed
-- [ ]Completed
-  ```
+
+- [x] Completed
+- [ ] InCompleted
+
