@@ -1,6 +1,6 @@
 <h1>$\color{deepskyblue}{About-Me}$</h1>
 
-Hello, my name is Mohammad Javad Ravand, and I created this repository to introduce myself and my abilities. Please stay with me.
+Hello, my name is Mohammad Javad Ravand 😊 Python language programmer and backend developer and student of computer engineering and interested in computers .  I created this repository to introduce myself and my abilities. Please stay with me.
 
 <br>
 
