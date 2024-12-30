@@ -42,7 +42,7 @@ I had the experience of working with the following tools and completed my projec
 - [x] Django
 - [x] Html
 - [x] Css
-- [x] c
+- [x] C
 - [ ] Django Rest Framework
 - [ ] Django Celery
 - [ ] Js
