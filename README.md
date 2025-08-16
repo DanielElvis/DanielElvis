@@ -30,7 +30,7 @@ I had the experience of working with the following tools and completed my projec
 <br>
 <br>
 
-![My Skills](https://skillicons.dev/icons?i=python,html,css,bootstrap5,django,mysql,sqlite,stackoverflow,vscode,windows,pycharm,c,git,github)
+![My Skills](https://skillicons.dev/icons?i=python,html,css,bootstrap,django,mysql,sqlite,stackoverflow,vscode,windows,pycharm,c,git,github)
 
 
 <br>
