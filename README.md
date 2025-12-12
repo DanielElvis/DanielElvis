@@ -35,7 +35,7 @@ I had the experience of working with the following tools and completed my projec
 <br>
 <br>
 
-<h1>$\color{deepskyblue}{My\ Task\ Lists:}$</h1>
+<h1>My Task Lists</h1>
 
 - [x] Python
 - [x] Django
